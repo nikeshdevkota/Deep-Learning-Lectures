@@ -13,7 +13,7 @@ Image classification is the process of categorizing and labeling groups of pixel
 * Each number is an integer that ranges from 0 (black) to 255 (white).
 * The task of a machine learning algorithm is to turn this quarter of a million numbers into a single label, such as “cat”.
 
-<h3>Challenges in image classification</h3>
+<h3>Challenges in Image Classification</h3>
 Some of the challenges that that arise during image classification from a perspective of Computer Vision are as follows:
 <br><br>
 
