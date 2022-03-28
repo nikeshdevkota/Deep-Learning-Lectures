@@ -47,6 +47,6 @@ For the cat prediction ,loss would be calculated as shown in the figure below
 <strong> Elastic Net Regularization</strong> Elastic Net Regularization is the combination of Lasso and Ridge regression.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160314003-520645f9-a444-43b9-9b62-e02650f46ce7.PNG" width="250" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160314003-520645f9-a444-43b9-9b62-e02650f46ce7.PNG" width="350" title="hover text">
 </p>
 
