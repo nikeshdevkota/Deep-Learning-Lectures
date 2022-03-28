@@ -19,6 +19,12 @@ Some of the loss functions are as follows:
   <img src="https://user-images.githubusercontent.com/45029614/160311623-39c65485-24be-4187-9a70-8ba185f21485.PNG" width="350" title="hover text">
 </p>
 
+For the cat prediction ,loss would be calculated as shown in the figure below
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45029614/160311869-e53a6fbf-1e08-4316-9a6b-b2e529784136.PNG" width="350" title="hover text">
+</p>
+
 
 
 
