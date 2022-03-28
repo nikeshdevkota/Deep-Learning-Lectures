@@ -13,11 +13,12 @@
   <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="350" title="hover text">
 </p>
 
+
+For the cat prediction ,loss would be calculated as shown in the figure below
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45029614/160311623-39c65485-24be-4187-9a70-8ba185f21485.PNG" width="350" title="hover text">
 </p>
-
-For the cat prediction ,loss would be calculated as shown in the figure below
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45029614/160311869-e53a6fbf-1e08-4316-9a6b-b2e529784136.PNG" width="350" title="hover text">
@@ -26,7 +27,7 @@ For the cat prediction ,loss would be calculated as shown in the figure below
 * <strong>Regularization</strong> Regularization is a process that is used to minimize the loss function and prevent overfitting or underfitting.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160312380-369df648-c3d9-4857-93ef-7bbff080ba38.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160312380-369df648-c3d9-4857-93ef-7bbff080ba38.PNG" width="550" title="hover text">
 </p>
 
 
