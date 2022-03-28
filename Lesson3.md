@@ -10,18 +10,18 @@
 
 * <strong>Multi-class SVM loss</strong> Multi-class SVM Loss is a cost or a loss function that uses a scoring function 'f' to determine the numerical scores for each target class labels. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="550" title="hover text">
 </p>
 
 
 For the cat prediction ,loss would be calculated as shown in the figure below
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160311623-39c65485-24be-4187-9a70-8ba185f21485.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160311623-39c65485-24be-4187-9a70-8ba185f21485.PNG" width="450" title="hover text">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160311869-e53a6fbf-1e08-4316-9a6b-b2e529784136.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160311869-e53a6fbf-1e08-4316-9a6b-b2e529784136.PNG" width="450" title="hover text">
 </p>
 
 <h3>Regularization</h3> Regularization is a process that is used to minimize the loss function and prevent overfitting or underfitting.
