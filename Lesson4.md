@@ -2,13 +2,13 @@
 ## Lesson 4
 
 <h3>Introduction to Neural Networks</h3>
-Artificial Neural networks are a network of artificial neurons(perceptrons) which mimick the human brain neural networks to produce a meaningful output. Neural networks consist of the input layer, hidden layer and the output layer.
+Artificial Neural networks are a network of artificial neurons(perceptrons) which mimick the human brain neural networks to produce a meaningful output. Neural networks consist of the input layer, hidden layer and the output layer. The input layer accepts the input 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45029614/160355531-d1b2d967-6f4e-4753-a64e-067827f1c9ce.PNG" width="550" title="hover text">
 </p>
 
-The neural network relies on a training dataset to predict an outcome based upon the input and hidden layer.
+The neural network relies on a training dataset to predict an outcome based upon the input and hidden layer. Each feature or input in the neural network layer has a weight attached to it.
 
 <h3>Forward Propagation & Backpropagation in  Neural Networks</h3>
 
@@ -20,9 +20,19 @@ Forward Propagation refers to the computational movement from input layers towar
 
 <h3>Why do we need Backpropagation in  Neural Networks</h3>
 
-Backpropagation in neural networks is a suitable method used to reduce the loss function and hence improve the prediction accuracy by computing the gradient of the loss function with respect to the inputs.
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160358999-74df7f38-766e-4c8d-b019-12789e665a22.PNG" width="550" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160366819-3841d88a-e2aa-43b3-92d1-df1263ef4fdb.PNG" width="550" title="hover text">
 </p>
+
+In a neural network, the predicted output depends upon:
+
+* Input Values
+* Activation Function
+* Beta Coefficients of the inputs(weights associated with inputs)
+* Optimizers(Biased Terms)
+
+Backpropagation in neural networks is a suitable method used to reduce the loss function and hence improve the prediction accuracy. In backward propagation, we compute the gradient of the loss function with respect to the inputs to adjust the weights to minimize the loss function.
+
+
+
 
