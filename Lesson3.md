@@ -35,13 +35,13 @@ For the cat prediction ,loss would be calculated as shown in the figure below
 * <strong>L1 Regularization</strong> In L1 regularization(also known as Lassso Regression), a regularization term equal to the absolute value of magnitude of coefficient is added to the cost function as penalty term. L1 regularization can be used for feature selection.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160312859-1c68b7d2-a850-4896-b690-ac2f8d55728b.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160312859-1c68b7d2-a850-4896-b690-ac2f8d55728b.PNG" width="450" title="hover text">
 </p>
 
 * <strong>L2 Regularization</strong> In L2 regularization(also known as Ridge Regression), a regularization term equal to the square value of magnitude of coefficient is added to the cost function as penalty term. If we have features which are highly correlated top each other, we can use the L2 regularization as it allows the less signinficant features to have some influence at predicting the outcome rather than eliminating it all together.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160313579-2bf66030-904a-43c9-b32f-85000c32dd72.PNG" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160313579-2bf66030-904a-43c9-b32f-85000c32dd72.PNG" width="450" title="hover text">
 </p>
 
 <strong> Elastic Net Regularization</strong> Elastic Net Regularization is the combination of Lasso and Ridge regression.
