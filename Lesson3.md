@@ -10,7 +10,7 @@
 
 * <strong>Multi-class SVM loss</strong> Multi-class SVM Loss is a cost or a loss function that uses a scoring function 'f' to determine the numerical scores for each target class labels. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="550" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="350" title="hover text">
 </p>
 
 
