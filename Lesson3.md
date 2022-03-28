@@ -30,5 +30,13 @@ For the cat prediction ,loss would be calculated as shown in the figure below
   <img src="https://user-images.githubusercontent.com/45029614/160312380-369df648-c3d9-4857-93ef-7bbff080ba38.PNG" width="550" title="hover text">
 </p>
 
+Types of Regularization
+
+* <strong>L1 Regularization</strong> In L1 regularization(also known as Lassso Regression), a regularization term equal to the absolute value of magnitude of coefficient is added to the cost function as penalty term. L1 regularization can be used for feature selection.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45029614/160312859-1c68b7d2-a850-4896-b690-ac2f8d55728b.PNG" width="350" title="hover text">
+</p>
+
 
 
