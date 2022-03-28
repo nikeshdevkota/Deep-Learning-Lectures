@@ -5,7 +5,7 @@
 Artificial Neural networks are a network of artificial neurons(perceptrons) which mimick the human brain neural networks to produce a meaningful output. Neural networks consist of the input layer, hidden layer and the output layer.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160368592-657a9d9f-cbd8-4f4b-a1a5-d699ea39dd93.PNG" width="550" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160368592-657a9d9f-cbd8-4f4b-a1a5-d699ea39dd93.PNG" width="750" title="hover text">
 </p>
 
 The neural network relies on a training dataset to predict an outcome based upon the input and hidden layer. Each feature or input in the neural network layer has a weight attached to it. These weights are multiplied by each input value and then added together.
