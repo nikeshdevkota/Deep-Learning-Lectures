@@ -38,7 +38,7 @@ In a neural network, the predicted output depends upon:
 Backpropagation in neural networks is a suitable method used to reduce the loss function and hence improve the prediction accuracy. In backward propagation, we compute the gradient of the loss function with respect to the inputs to adjust the weights to minimize the loss function.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45029614/160388609-a36bbd68-e0f8-490a-8aa9-b55409453468.PNG" width="550" title="hover text">
+  <img src="https://user-images.githubusercontent.com/45029614/160388609-a36bbd68-e0f8-490a-8aa9-b55409453468.PNG" width="750" title="hover text">
 </p>
 
 
