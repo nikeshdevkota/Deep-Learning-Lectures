@@ -8,8 +8,6 @@
   <img src="https://user-images.githubusercontent.com/45029614/160310814-f3f65cd5-a0ef-472e-8653-b749bed0b296.PNG" width="350" title="hover text">
 </p>
 
-Some of the loss functions are as follows:
-
 * <strong>Multi-class SVM loss</strong> Multi-class SVM Loss is a cost or a loss function that uses a scoring function 'f' to determine the numerical scores for each target class labels. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/45029614/160311593-3c45d078-7f8c-4453-a3bf-3d8ff3d29625.PNG" width="350" title="hover text">
@@ -25,6 +23,11 @@ For the cat prediction ,loss would be calculated as shown in the figure below
   <img src="https://user-images.githubusercontent.com/45029614/160311869-e53a6fbf-1e08-4316-9a6b-b2e529784136.PNG" width="350" title="hover text">
 </p>
 
+* <strong>Regularization</strong> Regularization is a process that is used to minimize the loss function and prevent overfitting or underfitting.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45029614/160312380-369df648-c3d9-4857-93ef-7bbff080ba38.PNG" width="350" title="hover text">
+</p>
 
 
 
