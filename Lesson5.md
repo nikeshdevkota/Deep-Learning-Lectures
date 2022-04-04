@@ -11,11 +11,11 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 
 <h3>What do you mean by Convolution layers in Convolution Neural Network?</h3>
 
-Convolution layers are created in neural networks when multiple image filters are applied to the input image. The layer can be trained to figure out the best possible filter weight values. Basically, a convolution layer transforms the input image data and extract features from it.
+Convolution layers are created in neural networks when multiple image filters are applied to the input image. The multiplication between an input image and an image kernel is a dot product. Basically, a convolution layer transforms the input image data and extract features from it.
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/161528989-22e82f95-5a49-4267-9d9c-fabc23b759a2.png" width="750" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/161530143-b053691b-2415-4c3c-aa59-671a29c3f01b.png" width="750" title="CNN">
 </p>
 
 <h3>What are Image Kernels in Convolution Neural Networks?</h3>
