@@ -32,7 +32,9 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 </p>
 
 * <strong>Pooling layers:</strong>
-The pooling layer reduces the spatial size of the image representation to reduce the number of parameters and computation in the network. It operates on each feature map separately.
+The pooling layer reduces the spatial size of the image representation to reduce the number of parameters and computation in the network. It operates on each feature map separately. The types of pooling are as follows:
+
+** <strong>Max Pooling</strong>
 
 <p align="center">
   <br>
