@@ -33,7 +33,6 @@ The pooling layer reduces the spatial size of the image representation to reduce
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/161531845-8fa26ee7-16fa-43ef-a5e3-729c7e247fbc.jpg" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/161532169-353d6913-ffd9-468f-9c83-77990ac07b53.jpeg" width="550" title="CNN">
 </p>
-
 
