@@ -15,7 +15,7 @@ Convolution layers are created in neural networks when multiple image filters ar
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/161524064-6ce91a75-7ac6-4f57-8d14-c30b15239cae.png" width="750" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/161528989-22e82f95-5a49-4267-9d9c-fabc23b759a2.png" width="750" title="CNN">
 </p>
 
 <h3>What are Image Kernels in Convolution Neural Networks?</h3>
