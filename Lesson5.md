@@ -44,6 +44,11 @@ A convolutional neural network's final layer is a fully linked layer. This layer
 <h3>What are strides in CNN?</h3>
 Stride is a filter parameter in a neural network that controls the amount of movement in an image or video. When the stride of a neural network is set to 1, for example, the filter moves one pixel (or unit) at a time.
 
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/161536313-12e49c9d-cf9a-4eef-b025-bc4444ad5b8b.png" width="550" title="CNN">
+</p>
+
 <h3>How to determine the size of a feature map?</h3>
 If an input image has a size of n x n and filters size f x f and p is the Padding amount and s is the Stride, then the dimension of the feature map is given by:
 <p align="center"> Dimension = floor[ ((n-f+2p)/s)+1] x floor[ ((n-f+2p)/s)+1]</p>
