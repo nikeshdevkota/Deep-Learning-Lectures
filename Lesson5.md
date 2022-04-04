@@ -27,6 +27,13 @@ Convolution layers are created in neural networks when multiple image filters ar
   <img src="https://user-images.githubusercontent.com/45029614/161528554-92ebf242-985a-43dd-ae02-81eef2109bf7.png" width="550" title="CNN">
 </p>
 
+<h3>What do you mean by Pooling layers in Convolution Neural Network?</h3>
 
+The pooling layer reduces the spatial size of the image representation to reduce the number of parameters and computation in the network. It operates on each feature map separately.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/161531845-8fa26ee7-16fa-43ef-a5e3-729c7e247fbc.jpg" width="550" title="CNN">
+</p>
 
 
