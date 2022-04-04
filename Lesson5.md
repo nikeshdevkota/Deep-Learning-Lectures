@@ -35,3 +35,6 @@ The pooling layer reduces the spatial size of the image representation to reduce
   <img src="https://user-images.githubusercontent.com/45029614/161532169-353d6913-ffd9-468f-9c83-77990ac07b53.jpeg" width="550" title="CNN">
 </p>
 
+<h3>How to determine the size of a feature map?</h3>
+If an input image has a size of n x n and filters size f x f and p is the Padding amount and s is the Stride, then the dimension of the feature map is given by:
+<p align="center"> Dimension = floor[ ((n-f+2p)/s)+1] x floor[ ((n-f+2p)/s)+1]</p>
