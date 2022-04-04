@@ -15,8 +15,10 @@ Image Kernels are small matrices used to apply effects such as blurring or sharp
 
 <p align="center">
   <br>
-  <img src=https://user-images.githubusercontent.com/45029614/161524064-6ce91a75-7ac6-4f57-8d14-c30b15239cae.png" width="750" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/161524064-6ce91a75-7ac6-4f57-8d14-c30b15239cae.png" width="750" title="CNN">
 </p>
+
+                                                                                                                                         ![CNN1]()
 
 
 
