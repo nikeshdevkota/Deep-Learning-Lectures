@@ -11,9 +11,13 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 
 <h3>Different Layers in Convolution Neural Network?</h3>
 
+* <strong>Input layer:</strong> The input layer contains the image dat given as input to the Convolution Neural Network. The size of an image is a 3D matrix.
+
 * <strong>Convolution layers:</strong> 
  Convolution layers are created in neural networks when multiple image filters are applied to the input image. The multiplication between an input image and an image kernel is a dot product. Basically, a convolution layer transforms the input image data and extract features from it.
 
+* <strong>Activation Functions:</strong> 
+ The activation function is the final component of the convolutional layer, and it increases the output non-linearity. In a convolution layer, the ReLu or Tanh function is commonly employed as an activation function.
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/161530143-b053691b-2415-4c3c-aa59-671a29c3f01b.png" width="750" title="CNN">
