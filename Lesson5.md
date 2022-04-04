@@ -11,7 +11,7 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 
 <h3>What are Image Kernels in Convolution Neural Networks?</h3>
 
-Image Kernels are small matrices used to apply effects such as blurring or sharpening images. In machine learning, they are used for the feature extraction process to determine the important portions of an image.
+[Image Kernels ](https://setosa.io/ev/image-kernels/) are small matrices used to apply effects such as blurring or sharpening images. In machine learning, they are used for the feature extraction process to determine the important portions of an image.
 
 <p align="center">
   <br>
