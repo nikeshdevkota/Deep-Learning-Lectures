@@ -9,16 +9,17 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
   <img src="https://user-images.githubusercontent.com/45029614/161522174-e07a64ee-a8e0-40ac-b55f-138fed995faa.png" width="750" title="CNN">
 </p>
 
-<h3>What do you mean by Convolution layers in Convolution Neural Network?</h3>
+<h3>Different Layers in Convolution Neural Network?</h3>
 
-Convolution layers are created in neural networks when multiple image filters are applied to the input image. The multiplication between an input image and an image kernel is a dot product. Basically, a convolution layer transforms the input image data and extract features from it.
+* <strong>Convolution layers</strong> 
+ Convolution layers are created in neural networks when multiple image filters are applied to the input image. The multiplication between an input image and an image kernel is a dot product. Basically, a convolution layer transforms the input image data and extract features from it.
 
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/161530143-b053691b-2415-4c3c-aa59-671a29c3f01b.png" width="750" title="CNN">
 </p>
 
-<h3>What are Image Kernels in Convolution Neural Networks?</h3>
+* <strong>Image Kernels</strong>
 
 [Image Kernels ](https://setosa.io/ev/image-kernels/) are small matrices used to apply effects such as blurring or sharpening images. In machine learning, they are used for the feature extraction process to determine the important portions of an image. An image kernel size is samller than the input image.
 
@@ -27,8 +28,8 @@ Convolution layers are created in neural networks when multiple image filters ar
   <img src="https://user-images.githubusercontent.com/45029614/161528554-92ebf242-985a-43dd-ae02-81eef2109bf7.png" width="550" title="CNN">
 </p>
 
-<h3>What do you mean by Pooling layers in Convolution Neural Network?</h3>
-
+* <strong>Pooling layers</strong>
+* 
 The pooling layer reduces the spatial size of the image representation to reduce the number of parameters and computation in the network. It operates on each feature map separately.
 
 <p align="center">
