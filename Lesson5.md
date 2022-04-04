@@ -36,7 +36,7 @@ The pooling layer reduces the spatial size of the image representation to reduce
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/161532169-353d6913-ffd9-468f-9c83-77990ac07b53.jpeg" width="550" title="CNN">
+  <img src="(https://user-images.githubusercontent.com/45029614/161536732-a34e5f21-b8c0-4efc-a098-fa43547fb0a1.jpeg" width="550" title="CNN">
 </p>
 * <strong>Fully Connected layer:</strong>
 A convolutional neural network's final layer is a fully linked layer. This layer recognizes and categorizes the image objects.
