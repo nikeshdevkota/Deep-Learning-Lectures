@@ -1,5 +1,5 @@
 # Deep Learning
-## Lesson 4
+## Lesson 5
 
 <h3>Introduction to Convolution Neural Networks</h3>
 Convolution Neural Networks are specific architecture of Neural Networks that are highly effective at dealing with image data.
@@ -40,6 +40,10 @@ The pooling layer reduces the spatial size of the image representation to reduce
 </p>
 * <strong>Fully Connected layer:</strong>
 A convolutional neural network's final layer is a fully linked layer. This layer recognizes and categorizes the image objects.
+
+<h3>What are strides in CNN?</h3>
+Stride is a filter parameter in a neural network that controls the amount of movement in an image or video. When the stride of a neural network is set to 1, for example, the filter moves one pixel (or unit) at a time.
+
 <h3>How to determine the size of a feature map?</h3>
 If an input image has a size of n x n and filters size f x f and p is the Padding amount and s is the Stride, then the dimension of the feature map is given by:
 <p align="center"> Dimension = floor[ ((n-f+2p)/s)+1] x floor[ ((n-f+2p)/s)+1]</p>
