@@ -20,7 +20,6 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 </p>
 
 * <strong>Image Kernels</strong>
-
 [Image Kernels ](https://setosa.io/ev/image-kernels/) are small matrices used to apply effects such as blurring or sharpening images. In machine learning, they are used for the feature extraction process to determine the important portions of an image. An image kernel size is samller than the input image.
 
 <p align="center">
@@ -29,7 +28,6 @@ Convolution Neural Networks are specific architecture of Neural Networks that ar
 </p>
 
 * <strong>Pooling layers</strong>
-* 
 The pooling layer reduces the spatial size of the image representation to reduce the number of parameters and computation in the network. It operates on each feature map separately.
 
 <p align="center">
