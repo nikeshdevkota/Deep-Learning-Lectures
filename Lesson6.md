@@ -31,6 +31,12 @@ The Rectified Linear Unit(ReLU) is one of the most commonly used activation func
   <img src="https://user-images.githubusercontent.com/45029614/163192821-3924ad6e-e6fa-4ab3-8d64-f144a7ad36ce.PNG" width="450" title="CNN">
 </p>
 
+  * <strong>Leaky ReLU Activation Function:</strong>
+The Leaky Rectified Linear Unit, or Leaky ReLU, is an activation function based on the ReLU, but instead of a flat slope it has a tiny slope for negative values. Before beginning training, the slope coefficient is calculated.
 
+  <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163195252-09e6162d-8d2a-4ff4-ad64-d36e5d11315c.png" width="450" title="CNN">
+</p>
   
   
