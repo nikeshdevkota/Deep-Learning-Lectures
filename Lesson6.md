@@ -52,10 +52,13 @@ The Leaky Rectified Linear Unit, or Leaky ReLU, is an activation function based 
  When all the weights are initialized to zero, all neurons are updated the same way and the network doesn't get trained very well. Small random number works for smaller neural networksbut are a problem for deep neural networks. 
     
 <h3>Weight Initialization Strategies<h3>
+  
+  
 * Use Uniform distribution
 * Use Normal Distribution
 * Use Xavier Normal Distribution
 * Use Xavier Uniform Distribution
+  
 However, proper initialization is still a research topic. You can look into the topics shown in the picture below for delving deep into weight initialization.
   
  <p align="center">
