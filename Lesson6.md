@@ -47,5 +47,29 @@ The Leaky Rectified Linear Unit, or Leaky ReLU, is an activation function based 
   <img src="https://user-images.githubusercontent.com/45029614/163196579-2749f171-2345-4e77-b49c-5fcde3a39e52.PNG" width="750" title="CNN">
 </p>
 
-   
+  <h3>What happens when all weights are initialized to zero?<h3>
+    
+ When all the weights are initialized to zero, all neurons are updated the same way and the network doesn't get trained very well. Small random number works for smaller neural networksbut are a problem for deep neural networks. 
+    
+<h3>Weight Initialization Strategies<h3>
+* Use Uniform distribution
+* Use Normal Distribution
+* Use Xavier Normal Distribution
+* Use Xavier Uniform Distribution
+However, proper initialization is still a research topic. You can look into the topics shown in the picture below for delving deep into weight initialization.
+  
+ <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163199462-e36e1f36-d584-42ef-84fe-ffd26524e1af.PNG" width="750" title="CNN">
+</p>
+
+<h3>What is batch normalization?<h3>
+ Normalization is a data pre-processing tool used to bring the numerical data to a common scale without distorting its shape. Batch normalization is a technique to make the neural network modeling faster and more stable through normalization of the layers' inputs by re-centering and re-scaling. In it, the values of activation functions are normalized with respect to a certain batch of inputs.
+     
+<h3>Advantages of Batch Normalization?<h3>
+ *  Improves gradient flow of network
+ * Allows the use of higher learning rates
+  
+  
+    
   
