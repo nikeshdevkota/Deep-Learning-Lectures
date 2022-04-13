@@ -5,7 +5,7 @@
 <h3>What are Activation Functions in a neural network?</h3>
 Activation functions are used to determine(or activate) the output of neural network depending upon the input values. This function decides whether a neuron should be activated or not.
 
-<h4>Types of Activation Function<h4>
+<h3>Types of Activation Function<h3>
   
   * <strong>Sigmoid Activation Function</strong> <br><br>
 The ouput value ranges from 0 to 1. The function can be used to predict the probability however it is usually not used in recent times as it suffers from vanishing gradient problem. 
