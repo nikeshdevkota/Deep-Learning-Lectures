@@ -67,8 +67,8 @@ However, proper initialization is still a research topic. You can look into the 
  Normalization is a data pre-processing tool used to bring the numerical data to a common scale without distorting its shape. Batch normalization is a technique to make the neural network modeling faster and more stable through normalization of the layers' inputs by re-centering and re-scaling. In it, the values of activation functions are normalized with respect to a certain batch of inputs.
      
 <h3>Advantages of Batch Normalization?<h3>
- * Improves gradient flow of network
- * Allows the use of higher learning rates
+* Improves gradient flow of network
+* Allows the use of higher learning rates
   
   
     
