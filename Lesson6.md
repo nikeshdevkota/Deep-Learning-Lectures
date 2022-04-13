@@ -7,8 +7,7 @@ Activation functions are used to determine(or activate) the output of neural net
 
 <h3>Types of Activation Function<h3>
   
-  * <strong>Sigmoid Activation Function:</strong>
-  
+  * <h4>Sigmoid Activation Function:</h4>
  <p>The ouput value ranges from 0 to 1. The function can be used to predict the probability however it is usually not used in recent times as it suffers from vanishing     gradient problem. <p>
    
   <p align="center">
