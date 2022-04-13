@@ -44,7 +44,7 @@ The Leaky Rectified Linear Unit, or Leaky ReLU, is an activation function based 
    
   <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/163196579-2749f171-2345-4e77-b49c-5fcde3a39e52.PNG" width="450" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/163196579-2749f171-2345-4e77-b49c-5fcde3a39e52.PNG" width="750" title="CNN">
 </p>
 
    
