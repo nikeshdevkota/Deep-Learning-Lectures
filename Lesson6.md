@@ -19,10 +19,17 @@ The hyperbolic tangent performs a little bit better than the sigmoid function. T
   
    <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/163191593-ff8826d7-1b04-4ce4-abb6-d5fdd284c41e.PNG" width="750" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/163191593-ff8826d7-1b04-4ce4-abb6-d5fdd284c41e.PNG" width="450" title="CNN">
+</p>
+
+* <strong>ReLU Activation Function</strong> <br><br>
+The Rectified Linear Unit(ReLU) is one of the most commonly used activation function in present day for deep neural network modeling as it doesn't suffer from the vanishing gradient problem and is computationally efficient.The neurons will only be deactivated if the output is less than 0. 
+  
+   <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163192821-3924ad6e-e6fa-4ab3-8d64-f144a7ad36ce.PNG" width="450" title="CNN">
 </p>
 
 
-  
   
   
