@@ -39,4 +39,13 @@ The Leaky Rectified Linear Unit, or Leaky ReLU, is an activation function based 
   <img src="https://user-images.githubusercontent.com/45029614/163195252-09e6162d-8d2a-4ff4-ad64-d36e5d11315c.png" width="450" title="CNN">
 </p>
   
+ <h3>What is Data Processing?<h3>
+ The task of changing the current data to a much more useable and desired form, i.e. making it more relevant and instructive, is known as data processing.
+   
+  <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163196579-2749f171-2345-4e77-b49c-5fcde3a39e52.PNG" width="450" title="CNN">
+</p>
+
+   
   
