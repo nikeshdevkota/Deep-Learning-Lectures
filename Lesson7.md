@@ -57,7 +57,7 @@ When the network gets larger and larger, there is insignificant change in the ne
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/163983658-e110352d-d2e7-4a15-9318-e546fc078a86.PNG" width="850" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/163983658-e110352d-d2e7-4a15-9318-e546fc078a86.PNG" width="450" title="CNN">
 </p>
 
 <h3>RMSProp</h3>
