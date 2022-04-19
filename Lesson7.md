@@ -69,9 +69,24 @@ Adaptive Moment Estimation (Adam) combines ideas from both RMSProp and Momentum.
 
 <h3>Reducing Gap between Training and Test Error</h3>
 
-In machine learning, we care about the gap between the test and train error and minimize the gap to know how our model performs on unseen data. 
+In machine learning, we care about the gap between the test and train error and minimize the gap to know how our model performs on unseen data. One of the easy way to do this is by the Model Ensemble process.
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/163990654-150edce1-fafe-4745-89e6-da9c1e4119ee.PNG" width="450" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/163990654-150edce1-fafe-4745-89e6-da9c1e4119ee.PNG" width="650" title="CNN">
+</p>
+
+<h3>Model Ensemble</h3>
+
+Ensemble approaches combine many learning algorithms to achieve higher predictive performance than any of the individual learning algorithms could.
+
+<h3>How to improve the performance of a single model?</h3>
+Regularization is ofteen used to improve the performance of a machine learning model. This technique forces us not to learn a more complex or flexible model, to avoid the problem of overfitting. Regularization techniques used for neural networks are gifven below.
+
+<h3>Dropout</h3>
+Dropout technique drops out a fraction of the input layer randomly to minimize complexity and prevent overfitting during each forward pass.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163995413-547e10c9-0967-4916-8e0b-036b6b9ee25d.PNG" width="650" title="CNN">
 </p>
