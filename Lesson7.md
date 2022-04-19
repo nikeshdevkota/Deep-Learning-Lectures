@@ -62,8 +62,16 @@ When the network gets larger and larger, there is insignificant change in the ne
 
 <h3>RMSProp</h3>
 
-RMSProp uses  learning rate to update the weight parameters in a neural network. In this technique, the recent moving averages are given more significance in order to prevent the new learning rates from being constant.
+Root Mean Square Prop (RMSProp) works by keeping an exponentially weighted average of the squares of past gradients. RMSProp then divides the learning rate by this average to speed up convergence.
 
 <h3>Adam Optimizer</h3>
-The adaptive moment adaptation optimization is a stochastic gradient descent approach that uses adaptive first-order and second-order moment estimation.
+Adaptive Moment Estimation (Adam) combines ideas from both RMSProp and Momentum. The adaptive moment adaptation optimization is a stochastic gradient descent approach that uses adaptive first-order and second-order moment estimation.
 
+<h3>Reducing Gap between Training and Test Error</h3>
+
+In machine learning, we care about the gap between the test and train error and minimize the gap to know how our model performs on unseen data. 
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163990654-150edce1-fafe-4745-89e6-da9c1e4119ee.PNG" width="450" title="CNN">
+</p>
