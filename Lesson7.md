@@ -84,9 +84,20 @@ Ensemble approaches combine many learning algorithms to achieve higher predictiv
 Regularization is ofteen used to improve the performance of a machine learning model. This technique forces us not to learn a more complex or flexible model, to avoid the problem of overfitting. Regularization techniques used for neural networks are gifven below.
 
 <h3>Dropout</h3>
-Dropout technique drops out a fraction of the input layer randomly to minimize complexity and prevent overfitting during each forward pass.
+Dropout technique drops out a fraction of the input layer randomly to minimize complexity and prevent overfitting during each forward pass. Dropout prevents the neural network to be heavily dependent on only one feature.
 
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/163995413-547e10c9-0967-4916-8e0b-036b6b9ee25d.PNG" width="650" title="CNN">
 </p>
+
+<h3>Data Augmentation</h3>
+Data augmentation refers to the modification or augmentation of a training dataset. The data augmentation process increases the diversity of data significantly. Common ways to augment the image data in CNN are by chnaging the brightness, rotating the image, adding noise to the image etc.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/163997487-b661f962-720d-4f32-86c4-884be4748504.PNG" width="650" title="CNN">
+</p>
+
+<h3>Fractional MaxPooling</h3>
+Fractional max pooling is slightly different than regular max pooling. In regular max pooling, you downsize an input set by taking the maximum value of smaller N x N subsections of the set (often 2x2), and try to reduce the set by a factor of N, where N is an integer. Fractional max pooling, as you might expect from the word "fractional", means that the overall reduction ratio N does not have to be an integer. The sizes of the pooling regions are generated randomly but are fairly uniform.
