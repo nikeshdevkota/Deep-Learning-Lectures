@@ -81,7 +81,7 @@ In machine learning, we care about the gap between the test and train error and 
 Ensemble approaches combine many learning algorithms to achieve higher predictive performance than any of the individual learning algorithms could.
 
 <h3>How to improve the performance of a single model?</h3>
-Regularization is ofteen used to improve the performance of a machine learning model. This technique forces us not to learn a more complex or flexible model, to avoid the problem of overfitting. Regularization techniques used for neural networks are gifven below.
+Regularization is often used to improve the performance of a machine learning model. This technique forces us not to learn a more complex or flexible model, to avoid the problem of overfitting. Regularization techniques used for neural networks are gifven below.
 
 <h3>Dropout</h3>
 Dropout technique drops out a fraction of the input layer randomly to minimize complexity and prevent overfitting during each forward pass. Dropout prevents the neural network to be heavily dependent on only one feature.
