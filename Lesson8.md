@@ -12,6 +12,12 @@ within an application.
 </p>
 
 GPU (graphics processing unit) is a specialized processing unit with enhanced mathematical computation capability, ideal for computer graphics and machine-learning tasks.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/165885556-aec3494b-1348-4ab5-bae8-e63478427e77.PNG" width="550" title="CNN">
+</p>
+
 GPUs were created to create visuals for computer graphics and 
 video gaming consoles, but from the early 2010s, they have also been used to speed up calculations involving large amounts of data.
 For example,at any given time, a graphically intense video game may have hundreds or thousands of polygons on the screen, each having its own movement, color, lighting, 
@@ -30,5 +36,5 @@ supports all major machine learning frameworks. Combined with a large, helpful c
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/165885391-6748b48c-60a8-4b20-a9b6-3c4b506871bd.jpg" width="350" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/165885391-6748b48c-60a8-4b20-a9b6-3c4b506871bd.jpg" width="375" title="CNN">
 </p>
