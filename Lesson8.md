@@ -30,5 +30,5 @@ supports all major machine learning frameworks. Combined with a large, helpful c
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/165885391-6748b48c-60a8-4b20-a9b6-3c4b506871bd.jpg" width="450" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/165885391-6748b48c-60a8-4b20-a9b6-3c4b506871bd.jpg" width="350" title="CNN">
 </p>
