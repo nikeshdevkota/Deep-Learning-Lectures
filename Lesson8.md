@@ -28,6 +28,12 @@ and other characteristics. That kind of workload is too much for a CPU to handle
   <img src="https://user-images.githubusercontent.com/45029614/165884891-5273e8a7-daee-4bef-b47c-3b08d617110a.PNG" width="550" title="CNN">
 </p>
 
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/165885794-f6259d83-4543-4703-81bd-153d25ebd66c.PNG" width="550" title="CNN">
+</p>
+
 <h3>NVIDIA VS AMD </h3>
 
 NVIDIA and AMD rae two of the most popular companies who manufacture GPUs. In deep learning, we mostly used the NVIDIA GPUs.Over the years,
