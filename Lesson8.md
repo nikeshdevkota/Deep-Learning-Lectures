@@ -31,7 +31,7 @@ and other characteristics. That kind of workload is too much for a CPU to handle
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/165885794-f6259d83-4543-4703-81bd-153d25ebd66c.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/165885794-f6259d83-4543-4703-81bd-153d25ebd66c.PNG" width="850" title="CNN">
 </p>
 
 <h3>NVIDIA VS AMD </h3>
