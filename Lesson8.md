@@ -11,11 +11,6 @@ within an application.
   <img src="https://user-images.githubusercontent.com/45029614/165884838-2e768e9d-9e98-481a-9a5c-d2f07d0900cb.PNG" width="550" title="CNN">
 </p>
 
-<p align="center">
-  <br>
-  <img src="https://user-images.githubusercontent.com/45029614/165885656-269997a0-e222-4142-850b-c1a32d5a0d79.PNG" width="150" title="CNN">
-</p>
-
 GPU (graphics processing unit) is a specialized processing unit with enhanced mathematical computation capability, ideal for computer graphics and machine-learning tasks.
 
 <p align="center">
