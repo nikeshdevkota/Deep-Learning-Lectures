@@ -40,6 +40,6 @@ Stack of three 3x3 conv (stride 1) layers has same effective receptive field as 
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="450"  title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="550"  title="CNN">
 </p>
 
