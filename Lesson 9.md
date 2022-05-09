@@ -23,6 +23,6 @@ AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing la
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167338134-ac558200-28a1-4568-b7e4-312171423601.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167338134-ac558200-28a1-4568-b7e4-312171423601.PNG" width="350" title="CNN">
 </p>
 
