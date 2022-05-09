@@ -18,9 +18,9 @@ more than 10.8 percentage points lower than that of the runner up. It was the fi
   <img src="https://user-images.githubusercontent.com/45029614/167337663-17fe564c-49cf-4aae-80c9-38833a421940.PNG" width="550" title="CNN">
 </p>
 
-AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing layers and 3 fully connected layers.
+AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing layers and 2 fully connected layers before the final fully connected layer going to the output classes.
 
-
+* <strong>First Layer<strong> Input image of size 227*227*3. 
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167338134-ac558200-28a1-4568-b7e4-312171423601.PNG" width="150"  title="CNN">
