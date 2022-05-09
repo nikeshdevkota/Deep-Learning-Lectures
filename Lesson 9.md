@@ -28,3 +28,11 @@ AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing la
   <img src="https://user-images.githubusercontent.com/45029614/167339268-8c1d7184-18db-4cce-a83a-bfa5d98771cd.PNG" width="450"  title="CNN">
 </p>
 
+<h3>VGGNet</h3>
+VGGNet is a Convolutional Neural Network architecture proposed by Karen Simonyan and Andrew Zisserman from the University of Oxford in 2014. It used smaller filters and deeper networks compared to the AlexNet model.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167340808-60d9c36b-5268-4ae2-93dd-573c91dfe2b1.PNG" width="450"  title="CNN">
+</p>
+
