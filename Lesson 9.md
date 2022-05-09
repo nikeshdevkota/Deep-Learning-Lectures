@@ -59,3 +59,19 @@ The main idea of the Inception module is that of running multiple operations (po
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167355247-57c34de2-17ae-43b8-a4eb-7e7f644cd128.png" width="650"  title="CNN">
 </p>
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167357663-61e1e922-d911-489f-96f0-c828dcc39290.PNG" width="650"  title="CNN">
+</p>
+<h3>ResNet</h3>
+Residual Network (ResNet) is one of the famous deep learning models that was introduced by Shaoqing Ren, Kaiming He, Jian Sun, and Xiangyu Zhang in their paper.The ResNet model is one of the popular and most successful deep learning models so far. It consists of 152 layers.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167358752-f08ee39d-5101-4040-b40b-40d9d15601f3.png" width="550"  title="CNN">
+</p>
+<h3>What happens when we continue stacking deeper layers on a “plain” convolutional neural network?</h3>
+
+As you can see from the figure, the 56 layer model is performing worst in both training and test data than the 20 layer model. Hence, we can say that the accuracy is not degraded due to overfitting.
+
+The ReseNet developers hypothesized that the problem was actually an optimization problem i.e. deeper models are harder to optimize. The solution to this problem was to use the network layers to fit a residual mapping instead of directly trying to fit a desired underlying mapping.
