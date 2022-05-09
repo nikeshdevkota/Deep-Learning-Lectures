@@ -48,8 +48,14 @@ The receptive field in Convolutional Neural Networks (CNN) is the region of the 
   <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="550"  title="CNN">
 </p>
 <h3>GoogleNet</h3>
-GoogLeNet is a 22-layer deep convolutional neural network that was presented in the ImageNet Large-Scale Visual Recognition Challenge 2014(ILSVRC14). It won the challenge.
+GoogLeNet is a 22-layer deep convolutional neural network that was presented in the ImageNet Large-Scale Visual Recognition Challenge 2014(ILSVRC14). It has 12 times less parameters than the AlexNet model and doesn't have any Fully Connected layers.
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167348415-2a0afaff-2d54-405f-b60c-259ac5dec8e6.PNG" width="650"  title="CNN">
+</p>
+<h3>Inception Module</h3>
+The main idea of the Inception module is that of running multiple operations (pooling, convolution) with multiple filter sizes (3x3, 5x5…) in parallel. In inception module, you design a good network topology and stack these modules on top of each other.
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167355247-57c34de2-17ae-43b8-a4eb-7e7f644cd128.png" width="650"  title="CNN">
 </p>
