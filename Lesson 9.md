@@ -4,12 +4,10 @@
 <h3>AlexNet</h3>
 AlexNet is considered one of the most influential papers published in computer vision, having spurred many more papers published employing CNNs and GPUs to accelerate 
 deep learning. As of 2021, the AlexNet paper has been cited over 80,000 times according to Google Scholar.
-<br><br>
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167339848-01deb8a0-5435-4a82-9e0b-70a52038f938.PNG" width="550" title="CNN">
 </p>
-
 AlexNet is the name of a convolutional neural network (CNN) architecture,designed by Alex Krizhevsky in collaboration with Ilya Sutskever and Geoffrey Hinton, who 
 was Krizhevsky's Ph.D. advisor.
 <br><br>
