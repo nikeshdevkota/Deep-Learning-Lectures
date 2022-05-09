@@ -15,9 +15,6 @@ was Krizhevsky's Ph.D. advisor.
 <br><br>
 AlexNet competed in the ImageNet Large Scale Visual Recognition Challenge on September 30, 2012.The network achieved a top-5 error of 15.3%,
 more than 10.8 percentage points lower than that of the runner up. It was the first large scale CNN network that was able to do well on the ImageNet classification task.
-<br><br>
-
-
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167337663-17fe564c-49cf-4aae-80c9-38833a421940.PNG" width="550" title="CNN">
