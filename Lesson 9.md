@@ -47,4 +47,9 @@ The receptive field in Convolutional Neural Networks (CNN) is the region of the 
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="550"  title="CNN">
 </p>
-
+<h3>GoogleNet</h3>
+GoogLeNet is a 22-layer deep convolutional neural network that was presented in the ImageNet Large-Scale Visual Recognition Challenge 2014(ILSVRC14). It won the challenge.
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167348415-2a0afaff-2d54-405f-b60c-259ac5dec8e6.PNG" width="550"  title="CNN">
+</p>
