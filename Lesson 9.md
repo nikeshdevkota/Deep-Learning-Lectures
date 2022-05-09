@@ -9,13 +9,20 @@ AlexNet is the name of a convolutional neural network (CNN) architecture,designe
 was Krizhevsky's Ph.D. advisor.
 <br><br>
 AlexNet competed in the ImageNet Large Scale Visual Recognition Challenge on September 30, 2012.The network achieved a top-5 error of 15.3%,
-more than 10.8 percentage points lower than that of the runner up. 
+more than 10.8 percentage points lower than that of the runner up. It was the first large scale CNN network that was able to do well on the ImageNet classification task.
 <br><br>
-AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing layers and 3 fully connected layers.
+
 
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167337663-17fe564c-49cf-4aae-80c9-38833a421940.PNG" width="550" title="CNN">
 </p>
 
+AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing layers and 3 fully connected layers.
+
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167338134-ac558200-28a1-4568-b7e4-312171423601.PNG" width="550" title="CNN">
+</p>
 
