@@ -20,9 +20,11 @@ more than 10.8 percentage points lower than that of the runner up. It was the fi
 
 AlexNet contained five convolutional layers, 3 Max-Pool layers, 2 Normalizing layers and 2 fully connected layers before the final fully connected layer going to the output classes.
 
-* <strong>First Layer:</strong> Input image of size (227,227,3). 
+* <strong>First Layer(CONV1):</strong> Input image of size (227,227,3). The 96 filters of size (11,11) are applied at stride 4 to the input images. The output volume of this layer is (55,55,96).
+* <strong>Second Layer(POOL1):</strong> It takes the output of the first convolution layer as its input. The filter of size (3,3) is applied to the input at stride 2. The output volume is (27,27,96)
+
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167338134-ac558200-28a1-4568-b7e4-312171423601.PNG" width="150"  title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167339268-8c1d7184-18db-4cce-a83a-bfa5d98771cd.PNG" width="150"  title="CNN">
 </p>
 
