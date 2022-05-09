@@ -35,4 +35,11 @@ VGGNet is a Convolutional Neural Network architecture proposed by Karen Simonyan
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167340808-60d9c36b-5268-4ae2-93dd-573c91dfe2b1.PNG" width="450"  title="CNN">
 </p>
+<h3>Why use smaller filters?</h3>
+Stack of three 3x3 conv (stride 1) layers has same effective receptive field as one 7x7 conv layer.. Unlike in fully connected networks, where the value of each unit depends on the entire input to the network, a unit in convolutional networks only depends on a region of the input.This region in the input is the receptive field for that unit.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="450"  title="CNN">
+</p>
 
