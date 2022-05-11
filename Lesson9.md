@@ -48,7 +48,7 @@ The receptive field in Convolutional Neural Networks (CNN) is the region of the 
   <img src="https://user-images.githubusercontent.com/45029614/167342233-feeaa083-aca9-4ef6-941c-e1fa43e8437d.PNG" width="550"  title="CNN">
 </p>
 <h3>GoogleNet</h3>
-GoogLeNet is a 22-layer deep convolutional neural network that was presented in the ImageNet Large-Scale Visual Recognition Challenge 2014(ILSVRC14). It has 12 times less parameters than the AlexNet model and doesn't have any Fully Connected layers.
+GoogleNet is a 22-layer deep convolutional neural network that was presented in the ImageNet Large-Scale Visual Recognition Challenge 2014(ILSVRC14). It has 12 times less parameters than the AlexNet model and doesn't have any Fully Connected layers.
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/167348415-2a0afaff-2d54-405f-b60c-259ac5dec8e6.PNG" width="650"  title="CNN">
@@ -74,4 +74,8 @@ Residual Network (ResNet) is one of the famous deep learning models that was int
 
 As you can see from the figure, the 56 layer model is performing worst in both training and test data than the 20 layer model. Hence, we can say that the accuracy is not degraded due to overfitting.
 
-The ReseNet developers hypothesized that the problem was actually an optimization problem i.e. deeper models are harder to optimize. The solution to this problem was to use the network layers to fit a residual mapping instead of directly trying to fit a desired underlying mapping.
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/167795996-b93cfbff-5b16-462c-a655-97ecf98b7c92.PNG" width="550"  title="CNN">
+</p>
+The ResNet developers hypothesized that the problem was actually an optimization problem i.e. deeper models are harder to optimize. The solution to this problem was to use the network layers to fit a residual mapping instead of directly trying to fit a desired underlying mapping.
