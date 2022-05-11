@@ -68,7 +68,7 @@ Residual Network (ResNet) is one of the famous deep learning models that was int
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167358752-f08ee39d-5101-4040-b40b-40d9d15601f3.png" width="550"  title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167358752-f08ee39d-5101-4040-b40b-40d9d15601f3.png" width="750"  title="CNN">
 </p>
 <h3>What happens when we continue stacking deeper layers on a “plain” convolutional neural network?</h3>
 
