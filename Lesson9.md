@@ -68,7 +68,7 @@ Residual Network (ResNet) is one of the famous deep learning models that was int
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167358752-f08ee39d-5101-4040-b40b-40d9d15601f3.png" width="750"  title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167358752-f08ee39d-5101-4040-b40b-40d9d15601f3.png" width="550"  title="CNN">
 </p>
 <h3>What happens when we continue stacking deeper layers on a “plain” convolutional neural network?</h3>
 
@@ -76,6 +76,6 @@ As you can see from the figure, the 56 layer model is performing worst in both t
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/167795996-b93cfbff-5b16-462c-a655-97ecf98b7c92.PNG" width="550"  title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/167795996-b93cfbff-5b16-462c-a655-97ecf98b7c92.PNG" width="750"  title="CNN">
 </p>
 The ResNet developers hypothesized that the problem was actually an optimization problem i.e. deeper models are harder to optimize. The solution to this problem was to use the network layers to fit a residual mapping instead of directly trying to fit a desired underlying mapping.
