@@ -23,4 +23,20 @@ application include Image Captioning, Language Translation etc.
 * Many to Many
   * Multiple inputs produce multiple outputs
   * Example: Machine Translation
- 
+  
+ RNNs are referred to as recurrent because they do the same task for each element of a sequence, with the outcome relying on past calculations. RNN consist of 
+ * Input State: At time step t, x(t) is used as the network's input. 
+ * Hidden State: At time t, h(t) represents a hidden state and serves as the network's "memory." h(t) is calculated using the current input and the hidden state from the previous time step.
+ <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/169201713-f7f9a9cd-1420-4c21-bad4-7a34d3ff4f9e.PNG" width="550" title="CNN">
+</p>
+ * Weights: Weights are matrices that are multiplied with the inputs and the hidden state.
+ * Output: It refers to the output y(t) of the network. 
+
+ <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/169201925-ad1ea765-ba94-4e0c-9406-283de3e65f40.PNG" width="550" title="CNN">
+</p>
+
+
