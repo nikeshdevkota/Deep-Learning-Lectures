@@ -45,4 +45,16 @@ application include Image Captioning, Language Translation etc.
   <img src="https://user-images.githubusercontent.com/45029614/169201925-ad1ea765-ba94-4e0c-9406-283de3e65f40.PNG" width="550" title="CNN">
 </p>
 
+<h3>LSTM</h3>
+
+The back propagation through time in vanilla RNN network suffers from exploding gradient and vanishing gradient. Since the gradient vanishes, RNN may leave out important information from beginning thus having a short term memory.
+
+To solve the problem of vanishing gradient, we can use LSTM network.
+
+ <p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/169217616-5b293d5b-b1d5-4430-a1d0-993bd2b74741.PNG" width="550" title="CNN">
+</p>
+
+
 
