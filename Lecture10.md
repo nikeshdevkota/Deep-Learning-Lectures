@@ -26,7 +26,7 @@ application include Image Captioning, Language Translation etc.
   
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/169202328-170a08de-411f-46a6-8cd1-cc61fd129ec4.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/169202328-170a08de-411f-46a6-8cd1-cc61fd129ec4.PNG" width="750" title="CNN">
 </p>
 
  RNNs are referred to as recurrent because they do the same task for each element of a sequence, with the outcome relying on past calculations. RNN consist of 
