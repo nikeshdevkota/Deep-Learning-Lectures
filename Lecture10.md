@@ -12,27 +12,28 @@ application include Image Captioning, Language Translation etc.
 
 <h3>Types of RNN</h3>
 
-* One to Many
+* <strong>One to Many</strong>
     *  A single input can produce multiple outputs.
     *  Example: Image Captioning
     
-* Many to One
+* <strong>Many to One</strong>
   *   Multiple outputs can produce a single output.
   *   Example: Sentiment Classification 
  
-* Many to Many
+* <strong>Many to Many</strong>
   * Multiple inputs produce multiple outputs
   * Example: Machine Translation
   
  RNNs are referred to as recurrent because they do the same task for each element of a sequence, with the outcome relying on past calculations. RNN consist of 
- * Input State: At time step t, x(t) is used as the network's input. 
- * Hidden State: At time t, h(t) represents a hidden state and serves as the network's "memory." h(t) is calculated using the current input and the hidden state from the previous time step.
+ * <strong>Input State</strong>: At time step t, x(t) is used as the network's input. 
+ * <strong>Hidden State</strong>: At time t, h(t) represents a hidden state and serves as the network's "memory." h(t) is calculated using the current input and the hidden state from the previous time step.
  <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/169201713-f7f9a9cd-1420-4c21-bad4-7a34d3ff4f9e.PNG" width="550" title="CNN">
 </p>
- * Weights: Weights are matrices that are multiplied with the inputs and the hidden state.
- * Output: It refers to the output y(t) of the network. 
+
+ * <strong>Weights</strong>: Weights are matrices that are multiplied with the inputs and the hidden state.
+ * <strong>Output</strong>: It refers to the output y(t) of the network. 
 
  <p align="center">
   <br>
