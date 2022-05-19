@@ -59,7 +59,7 @@ To solve the problem of vanishing gradient, we can use LSTM network.
 The LSTM network has internal mechanism called gates that can regulate the flow of information. These gates can learn which data in a sequence is important to keep or throw away to make predictions.
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/169218859-586aac64-ef01-471d-89a5-ac847a8b147f.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/169218859-586aac64-ef01-471d-89a5-ac847a8b147f.PNG" width="650" title="CNN">
 </p>
 
 
