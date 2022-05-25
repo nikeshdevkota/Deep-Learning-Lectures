@@ -87,5 +87,5 @@ Object Detection combines the concepts of image localization and classification.
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/170250458-3969829a-e1e9-40c2-9152-d20d8b6a4a75.PNG" width="350" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/170250458-3969829a-e1e9-40c2-9152-d20d8b6a4a75.PNG" width="550" title="CNN">
 </p>
