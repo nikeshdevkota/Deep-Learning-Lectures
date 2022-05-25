@@ -54,7 +54,7 @@ All of the above techniques are fixed functions and are not learning how to do t
 
 <h3>Classification and Localization</h3>
 
-* <strong>Localization</strong> : Find where the object is and draw a bounding box around it.
+* <strong>Localization</strong> : Find where the object is and draw a bounding box around it.<br>
 Sometimes, we want to do more than classify objects in an image. We may want to know where the object is and so on. For e.g in the below image, we may also want to know where the cat is along with identifying <strong>"the cat"</strong> as a cat. 
 
 <p align="center">
