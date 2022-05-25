@@ -90,3 +90,18 @@ Object Detection combines the concepts of image localization and classification.
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/170250458-3969829a-e1e9-40c2-9152-d20d8b6a4a75.PNG" width="550" title="CNN">
 </p>
+
+<h3>Fast R-CNN</h3>
+
+RNN is a noble approach to solve object detection problems but the traioning is slwo and takes a lot of disk space. Hence, Fast RCNN was introduced.
+
+* Performs feature extraction over the image before proposing regions, thus only running one CNN over the entire image instead of 2000 CNN’s over 2000 overlapping regions
+* Replaces the SVM with a softmax layer, thus extending the neural network for predictions instead of creating a new model.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170251251-d8d19973-45ea-441d-9574-2cb787b42d4c.PNG" width="550" title="CNN">
+</p>
+
+
+
