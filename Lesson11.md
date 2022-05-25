@@ -54,7 +54,7 @@ All of the above techniques are fixed functions and are not learning how to do t
 
 <h3>Classification and Localization</h3>
 
-* <strong>Localization</strong> : Find where the object is and draw a bounding box around it.<br>
+* <strong>Localization</strong> : Find where the object is and draw a bounding box around it.<br><br>
 Sometimes, we want to do more than classify objects in an image. We may want to know where the object is and so on. For e.g in the below image, we may also want to know where the cat is along with identifying <strong>"the cat"</strong> as a cat. 
 
 <p align="center">
@@ -62,3 +62,20 @@ Sometimes, we want to do more than classify objects in an image. We may want to 
   <img src="https://user-images.githubusercontent.com/45029614/170246141-092ace4a-17f8-4e30-a395-99997ee02d6b.PNG" width="350" title="CNN">
 </p>
 
+In Classification and Localization problem, we have two losses i.e softmax loss for clasification. Another loss is the regression loss for localization since the bounding box cordinates may not be same as the actual box cordinates.
+
+<h3>Object Detection</h3>
+Object Detection combines the concepts of image localization and classification. Given an image, an object detection algorithm would return bounding boxes around all objects of interest and assign a class to them.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170248330-a2ac40c6-6362-450c-8139-934715e0e6a0.PNG" width="350" title="CNN">
+</p>
+
+<h3>Region Proposals in Object Detection</h3>
+* Find “blobby” image regions that are likely to contain objects
+* Relatively fast to run; e.g. Selective Search gives 1000 region proposals in a few seconds on CPU
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170249492-dc9701f0-cd74-40ae-a679-6255234533ce.PNG" width="350" title="CNN">
+</p>
