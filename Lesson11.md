@@ -13,6 +13,6 @@ Input an image and label each pixel in the image with a category label.
 
 <h3>Semantic Segmentation Design</h3>
 Design network as a bunch of convolutional layers with downsampling and upsampling inside the network.Downsampling and Upsampling allows the network to work at lower resolution for many of the layers inside the network.
-
+<br>
 * <strong>Downsampling</strong>: Reducing the size of the image by using average pooling, max pooling etc.
 * <strong>Upsampling</strong>: Increase the spatial resolution of our predictions in the second half of the network so that the output image is the same size as the input image.
