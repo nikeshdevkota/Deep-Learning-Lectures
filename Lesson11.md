@@ -51,3 +51,14 @@ All of the above techniques are fixed functions and are not learning how to do t
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/170244872-a6a501fa-fe96-462f-9d02-37dfff88c3e6.PNG" width="650" title="CNN">
 </p>
+
+<h3>Classification and Localization</h3>
+
+* <strong>Localization</strong> : Find where the object is and draw a bounding box around it.
+Sometimes, we want to do more than classify objects in an image. We may want to know where the object is and so on. For e.g in the below image, we may also want to know where the cat is along with identifying <strong>"the cat"</strong> as a cat. 
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170246141-092ace4a-17f8-4e30-a395-99997ee02d6b.PNG" width="550" title="CNN">
+</p>
+
