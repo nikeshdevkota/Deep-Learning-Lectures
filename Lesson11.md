@@ -59,6 +59,6 @@ Sometimes, we want to do more than classify objects in an image. We may want to 
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/170246141-092ace4a-17f8-4e30-a395-99997ee02d6b.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/170246141-092ace4a-17f8-4e30-a395-99997ee02d6b.PNG" width="350" title="CNN">
 </p>
 
