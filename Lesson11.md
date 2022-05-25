@@ -40,3 +40,9 @@ All of the above techniques are fixed functions and are not learning how to do t
   <img src="https://user-images.githubusercontent.com/45029614/170242300-3e829c4f-ecb9-47a3-9f3e-9bfb664785c0.PNG" width="650" title="CNN">
 </p>
 
+* 3 x 3 Transpose convolution, stride 2 pad 1
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170243073-771555fd-165d-4abd-b62c-4ff7d21cfd81.PNG" width="650" title="CNN">
+</p>
