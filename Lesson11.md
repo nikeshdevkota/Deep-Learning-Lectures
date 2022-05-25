@@ -103,5 +103,11 @@ RNN is a noble approach to solve object detection problems but the traioning is 
   <img src="https://user-images.githubusercontent.com/45029614/170251251-d8d19973-45ea-441d-9574-2cb787b42d4c.PNG" width="550" title="CNN">
 </p>
 
+<h3>Faster R-CNN</h3>
+Faster R-CNN is an extension of Fast R-CNN. As its name suggests, Faster R-CNN is faster than Fast R-CNN because of the region proposal network (RPN).
 
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170252838-c505c474-6d09-449b-a8b1-4da4569825a9.PNG" width="550" title="CNN">
+</p>
 
