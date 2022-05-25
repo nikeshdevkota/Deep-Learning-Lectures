@@ -17,3 +17,13 @@ Design network as a bunch of convolutional layers with downsampling and upsampli
 
 * <strong>Downsampling</strong>: Reducing the size of the image by using average pooling, max pooling etc.
 * <strong>Upsampling</strong>: Increase the spatial resolution of our predictions in the second half of the network so that the output image is the same size as the input image.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170240143-ceb0c2fb-6f2f-45d3-9b65-90c154617144.PNG" width="650" title="CNN">
+</p>
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170240298-b1ce4d4f-05ac-48ed-9271-f67108575949.PNG" width="650" title="CNN">
+</p>
