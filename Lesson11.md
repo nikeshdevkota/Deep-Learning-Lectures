@@ -74,8 +74,18 @@ Object Detection combines the concepts of image localization and classification.
 
 <h3>Region Proposals in Object Detection</h3>
 * Find “blobby” image regions that are likely to contain objects
-* Relatively fast to run; e.g. Selective Search gives 1000 region proposals in a few seconds on CPU
+* Relatively fast to run; e.g. Selective Search gives 2000 region proposals in a few seconds on CPU
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/170249492-dc9701f0-cd74-40ae-a679-6255234533ce.PNG" width="350" title="CNN">
+</p>
+
+<h3>R-CNN(Region-based Convolutional Neural Network)</h3>
+* Scan the input image for possible objects using an algorithm called Selective Search, generating ~2000 region proposals
+* Run a convolutional neural net (CNN) on top of each of these region proposals
+* Take the output of each CNN and feed it into a) an SVM to classify the region and b) a linear regressor to tighten the bounding box of the object, if such an object exists.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170250458-3969829a-e1e9-40c2-9152-d20d8b6a4a75.PNG" width="350" title="CNN">
 </p>
