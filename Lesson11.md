@@ -81,6 +81,7 @@ Object Detection combines the concepts of image localization and classification.
 </p>
 
 <h3>R-CNN(Region-based Convolutional Neural Network)</h3>
+
 * Scan the input image for possible objects using an algorithm called Selective Search, generating ~2000 region proposals
 * Run a convolutional neural net (CNN) on top of each of these region proposals
 * Take the output of each CNN and feed it into a) an SVM to classify the region and b) a linear regressor to tighten the bounding box of the object, if such an object exists.
