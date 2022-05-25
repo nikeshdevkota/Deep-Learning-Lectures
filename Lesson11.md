@@ -1,5 +1,5 @@
 # Deep Learning
-## Lesson 10
+## Lesson 11
 ## Detection and Segmentation
 
 <h3>Semantic Segmentation</h3>
@@ -45,4 +45,9 @@ All of the above techniques are fixed functions and are not learning how to do t
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/170243073-771555fd-165d-4abd-b62c-4ff7d21cfd81.PNG" width="650" title="CNN">
+</p>
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170244872-a6a501fa-fe96-462f-9d02-37dfff88c3e6.PNG" width="650" title="CNN">
 </p>
