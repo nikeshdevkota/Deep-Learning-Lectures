@@ -25,5 +25,6 @@ Design network as a bunch of convolutional layers with downsampling and upsampli
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/170240298-b1ce4d4f-05ac-48ed-9271-f67108575949.PNG" width="650" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/170240528-83b91a6c-52f4-480a-bfb2-81bcd6cce8cd.PNG" width="650" title="CNN">
 </p>
+
