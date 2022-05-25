@@ -104,7 +104,9 @@ RNN is a noble approach to solve object detection problems but the traioning is 
 </p>
 
 <h3>Faster R-CNN</h3>
-Faster R-CNN is an extension of Fast R-CNN. As its name suggests, Faster R-CNN is faster than Fast R-CNN because of the region proposal network (RPN).
+The main idea of faster R-CNN is to make CNN do the region proposals. Faster R-CNN is an extension of Fast R-CNN. Faster R-CNN is faster than Fast R-CNN because of the region proposal network (RPN).
+<br><br>
+Region proposal network (RPN) is a fully convolutional network that generates proposals with various scales and aspect ratios. The RPN implements the terminology of neural network with attention to tell the object detection (Fast R-CNN) where to look.
 
 <p align="center">
   <br>
