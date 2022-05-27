@@ -35,3 +35,10 @@ If we draw the exact same visualization for the intermediate layers, it is actua
   <img src="https://user-images.githubusercontent.com/45029614/170631541-72d75e90-0448-4130-a495-9f6f4270152f.PNG" width="650" title="CNN">
 </p>
 
+<h3>Visualizing Last Layer</h3>
+Often before the last layer, we have a fully connected layer. In AlexNet, we have a 4096-dimensional feature vector for an image before the classifier.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/170632221-93bff3e1-3727-49b6-8bea-2f37a1390f74.PNG" width="550" title="CNN">
+</p>
