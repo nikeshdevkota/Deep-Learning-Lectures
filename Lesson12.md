@@ -40,5 +40,7 @@ Often before the last layer, we have a fully connected layer. In AlexNet, we hav
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/170632221-93bff3e1-3727-49b6-8bea-2f37a1390f74.PNG" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/170632221-93bff3e1-3727-49b6-8bea-2f37a1390f74.PNG" width="650" title="CNN">
 </p>
+
+In nearest neighbors classifier, we look at the nearest neighbors in pixel space. Fo e.g . foer
