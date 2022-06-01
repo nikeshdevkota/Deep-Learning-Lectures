@@ -46,3 +46,11 @@ Often before the last layer, we have a fully connected layer. In AlexNet, we hav
 </p>
 
 In nearest neighbors classifier, we look at the nearest neighbors in pixel space. It didn't have features of images that were quite similar to the query image but rather they were similar looking images in terms of fixels. When we look at nearest neighbours in feature space in ConvNet, we get the images that are quite similar to the query image.
+
+<h3>Dimensionality Reduction</h3>
+Dimensionality reduction refers to techniques that reduce the number of input variables in a dataset. More input features often make a predictive modeling task more challenging to model, more generally referred to as the curse of dimensionality.
+
+<h3>Visualizing Activations</h3>
+The visualization for the intermediate layers, it is actually a lot less interpretable but visualizing activation is interpretable.
+
+<h3></h3>
