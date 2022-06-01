@@ -90,3 +90,6 @@ Saliency maps help us visualize where the convolutional neural network is focusi
 * Like DeconvNets, in Guided Backpropagation we only backpropagate positive error signals – i.e. we set the negative gradients to zero (ref). This is the application of the ReLU to the error signal itself during the backward pass.
 
 <h3>Gradient Ascent</h3>
+* Generate a synthetic image that maximally activates the neuron.
+* Updating the pixels of the image which causes the neuron to be maximally activated.
+* Has a regularizer which forces the generated image to look natural.
