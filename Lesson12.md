@@ -36,11 +36,13 @@ If we draw the exact same visualization for the intermediate layers, it is actua
 </p>
 
 <h3>Visualizing Last Layer</h3>
-Often before the last layer, we have a fully connected layer. In AlexNet, we have a 4096-dimensional feature vector for an image before the classifier.
+To understand what's happening in the convolution network, we can look at what's happenning in the last layer of the network. 
+
+Often before the last layer, we have a fully connected layer. In AlexNet, we have a 4096-dimensional feature vector for an image before the classifier. We can run the network on many images, and collect the feature vectors.
 
 <p align="center">
   <br>
   <img src="https://user-images.githubusercontent.com/45029614/170632221-93bff3e1-3727-49b6-8bea-2f37a1390f74.PNG" width="650" title="CNN">
 </p>
 
-In nearest neighbors classifier, we look at the nearest neighbors in pixel space. Fo e.g . foer
+In nearest neighbors classifier, we look at the nearest neighbors in pixel space. It didn't have features of images that were quite similar to the query image but rather they were similar looking images in terms of fixels. When we look at nearest neighbours in feature space in ConvNet, we get the images that are quite similar to the query image.
