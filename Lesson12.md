@@ -51,6 +51,11 @@ In nearest neighbors classifier, we look at the nearest neighbors in pixel space
 Dimensionality reduction refers to techniques that reduce the number of input variables in a dataset. More input features often make a predictive modeling task more challenging to model, more generally referred to as the curse of dimensionality.
 
 <h3>Visualizing Activations</h3>
-The visualization for the intermediate layers, it is actually a lot less interpretable but visualizing activation is interpretable.
+The visualization for the intermediate layers, it is actually a lot less interpretable but visualizing activation is interpretable. We can visualize <strong> "what kind of things in the input are each of those features in that covolution layer looking for?"</strong>
 
-<h3></h3>
+<h3>Maximally activating patches</h3>
+
+Another thing we can do to visualize the intermediate layer is visualizing what type of patches from input images cause maximal activation in different neurons.
+One simple way to get a hint of the features that neurons learn is by measuring their responses to test images. We feed many images to the network, and then for a particular neuron of interest, we extract patches of those images which maximally activated it.
+
+Reference Link: [Link](https://ml4a.github.io/ml4a/visualizing_convnets/)
