@@ -74,3 +74,19 @@ The occlusion experiments tell us that our convolution neural network is actuall
 
 Reference Link: [Link](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
 
+<h2>Gradient Techniques</h2>
+
+<h3>Saliency Maps</h3>
+
+* How to tell which pixels matter for classification?
+* Why does the neural network predict a particular label? 
+* What did it see in the image that led to a particular prediction? 
+
+Saliency maps help us visualize where the convolutional neural network is focusing in particular while making a prediction. Generally, we visualize saliency maps as heatmaps overlayed on the original image. We can also visualize them as colored pixels concentrated around the area of interest of an object.
+
+<h3>Guided Backpropagation</h3>
+* Neurons act like detectors of a particular image features.
+* Interested in what image features that the neuron detects, doesn't care about what it doesn't detect.
+* Like DeconvNets, in Guided Backpropagation we only backpropagate positive error signals – i.e. we set the negative gradients to zero (ref). This is the application of the ReLU to the error signal itself during the backward pass.
+
+<h3>Gradient Ascent</h3>
