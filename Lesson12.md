@@ -55,7 +55,22 @@ The visualization for the intermediate layers, it is actually a lot less interpr
 
 <h3>Maximally activating patches</h3>
 
-Another thing we can do to visualize the intermediate layer is visualizing what type of patches from input images cause maximal activation in different neurons.
+Another thing we can do to visualize the intermediate layer is visualizing what type of patches from input images cause maximal activation in different neurons.<br>
 One simple way to get a hint of the features that neurons learn is by measuring their responses to test images. We feed many images to the network, and then for a particular neuron of interest, we extract patches of those images which maximally activated it.
 
 Reference Link: [Link](https://ml4a.github.io/ml4a/visualizing_convnets/)
+
+<h3>Occlusion Experiments</h3>
+
+* Block some part of the image, run it through the network and monitor the probability of the classifier. Repeat the proces a number of times.
+* Figure out which part of the input image cause the network to make its classification decision.
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/45029614/171357653-542fca25-772c-40c0-9fad-e00d8aeb54ab.PNG" width="650" title="CNN">
+</p>
+
+The occlusion experiments tell us that our convolution neural network is actually learning some meaning patterns like detecting the face of a dog from the input. That means that the model is truly picking up the location of a dog instead of identifying based on the surrounding context like a sofa or a couch.
+
+Reference Link: [Link](https://towardsdatascience.com/visualizing-convolution-neural-networks-using-pytorch-3dfa8443e74e)
+
