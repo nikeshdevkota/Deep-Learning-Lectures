@@ -87,12 +87,12 @@ Saliency maps help us visualize where the convolutional neural network is focusi
 <h3>Guided Backpropagation</h3>
 
 
-* How to tell which pixels matter for classification?
 * Neurons act like detectors of a particular image features.
 * Interested in what image features that the neuron detects, doesn't care about what it doesn't detect.
 * Like DeconvNets, in Guided Backpropagation we only backpropagate positive error signals – i.e. we set the negative gradients to zero (ref). This is the application of the ReLU to the error signal itself during the backward pass.
 
 <h3>Gradient Ascent</h3>
+
 * Generate a synthetic image that maximally activates the neuron.
 * Updating the pixels of the image which causes the neuron to be maximally activated.
 * Has a regularizer which forces the generated image to look natural.
