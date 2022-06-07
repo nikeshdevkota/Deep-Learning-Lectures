@@ -6,5 +6,5 @@
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172390487-0dabf005-1ccf-4de2-9917-6477f6013d83.png" width="250" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172390487-0dabf005-1ccf-4de2-9917-6477f6013d83.png" width="850" title="CNN">
 </p>
