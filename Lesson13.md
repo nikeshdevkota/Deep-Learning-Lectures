@@ -13,5 +13,5 @@ The requirement for labelled training data is the key difference between supervi
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172392586-6794f8c3-d752-4f75-be13-0d7f7e51982d.png" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172392586-6794f8c3-d752-4f75-be13-0d7f7e51982d.png" width="450" title="CNN">
 </p>
