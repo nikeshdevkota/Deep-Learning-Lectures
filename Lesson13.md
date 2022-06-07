@@ -26,6 +26,19 @@ Let's say we have a dataset with photographs of horses. We might want to create 
   <img src="https://user-images.githubusercontent.com/45029614/172394449-a91ef20c-af47-4458-b870-03a945d5846f.png" width="550" title="CNN">
 </p>
 
+Typically, there are two types of generative models: explicit and implicit. Explicit models define a density function of the distribution, while implicit models learn a mapping that generates samples by transforming an easy-to-sample random variable.
+
+<h3>PIXEL RNN</h3>
+Using probabilistic density models (such as the Gaussian or Normal distribution) to quantify the pixels of a picture as a product of conditional distributions is an effective way to develop a generative model explicitly. This method transforms the modeling problem into a sequence problem, in which the next pixel value is determined by all of the preceding pixel values.
+
+PixelRNNs are generative neural networks that sequentially predicts the pixels in an image along the two spatial dimensions. The network scans the image one row one pixel at a time in each row. Subsequently it predicts conditional distributions over the possible pixel values. The distribution of image pixels is written as product of conditional distributions and these values are shared across all the pixels of the image.
+
+Reference Link: [Link](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173)
+
+<h3>Pixel CNN</h3>
+
+The main drawback of PixelRNN is that training is very slow as each state needs to be computed sequentially. This can be overcome by using convolutional layers and increasing the receptive field. PixelCNNs are a class of powerful generative models with tractable likelihood that are also easy to sample from. The core convolutional neural network computes a probability distribution over a value of one pixel conditioned on the values of pixels to the left and above it.
+
 <h3>Generative Adversarial Network </h3>
 
 In June 2014, Ian Goodfellow and his colleagues created the generative adversarial network (GAN), a class of machine learning frameworks. A GAN trained on images, for example, can create new photographs that appear to human observers to be at least superficially authentic, with many realistic traits.
