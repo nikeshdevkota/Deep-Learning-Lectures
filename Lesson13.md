@@ -8,7 +8,7 @@ The requirement for labelled training data is the key difference between supervi
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172390487-0dabf005-1ccf-4de2-9917-6477f6013d83.png" width="850" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172390487-0dabf005-1ccf-4de2-9917-6477f6013d83.png" width="650" title="CNN">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Let's say we have a dataset with photographs of horses. We might want to create 
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172394449-a91ef20c-af47-4458-b870-03a945d5846f.png" width="450" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172394449-a91ef20c-af47-4458-b870-03a945d5846f.png" width="550" title="CNN">
 </p>
 
 <h3>Generative Adversarial Network </h3>
@@ -35,12 +35,12 @@ During training, the generator improves its ability to create realistic images, 
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172396249-c3c4f082-9def-4891-b18a-cf5f5f0a222f.png" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172396249-c3c4f082-9def-4891-b18a-cf5f5f0a222f.png" width="650" title="CNN">
 </p>
 
 <p align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/45029614/172396433-036c56a0-d169-4bfc-bfd3-6d0511c82724.png" width="550" title="CNN">
+  <img src="https://user-images.githubusercontent.com/45029614/172396433-036c56a0-d169-4bfc-bfd3-6d0511c82724.png" width="650" title="CNN">
 </p>
 
 
