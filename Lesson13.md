@@ -39,6 +39,21 @@ Reference Link: [Link](https://towardsdatascience.com/auto-regressive-generative
 
 The main drawback of PixelRNN is that training is very slow as each state needs to be computed sequentially. This can be overcome by using convolutional layers and increasing the receptive field. PixelCNNs are a class of powerful generative models with tractable likelihood that are also easy to sample from. The core convolutional neural network computes a probability distribution over a value of one pixel conditioned on the values of pixels to the left and above it.
 
+<h3>Variational Autoencoders</h3>
+
+In a vanilla autoencoder, the encoded vector can only be mapped to the corresponding input using a decoder. It certainly can’t be used to generate similar images with some variability.To achieve this, the model needs to learn the probability distribution of the training data. VAE is one of the most popular approach to learn the complicated data distribution such as images using neural networks in an unsupervised fashion.
+
+<br>
+
+ A variational autoencoder can be defined as being an autoencoder whose training is regularised to avoid overfitting and ensure that the latent space has good properties that enable generative process.in order to introduce some regularisation of the latent space, we proceed to a slight modification of the encoding-decoding process: instead of encoding an input as a single point, we encode it as a distribution over the latent space.The model is then trained as follows:
+ 
+ * First, the input is encoded as distribution over the latent space
+ * Second, a point from the latent space is sampled from that distribution
+ * Third, the sampled point is decoded and the reconstruction error can be computed
+ * Finally, the reconstruction error is backpropagated through the network
+
+Reference Link: [Link1](https://towardsdatascience.com/deep-generative-models-25ab2821afd3)[Link2](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+
 <h3>Generative Adversarial Network </h3>
 
 In June 2014, Ian Goodfellow and his colleagues created the generative adversarial network (GAN), a class of machine learning frameworks. A GAN trained on images, for example, can create new photographs that appear to human observers to be at least superficially authentic, with many realistic traits.
